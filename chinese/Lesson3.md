@@ -11,7 +11,7 @@ Coursera上[吴恩达的机器学习课程](https://www.coursera.org/learn/machi
 
 如果你对机器学习基础感兴趣，你应该学习我们的[机器学习课程](https://course.fast.ai/ml)。它大概比这个深度学习课程长一倍，它会带你更渐进地了解一些基础概念，比如验证集、模型解释、PyTorch工作原理等等。这些课程是一起的，如果你想深入学习，就学习两门课。我认识很多这样的人，他们最后说：作为一个整体来学两门课比单独学一个学到的更多。或者你可以把两门课都尝试下，看哪个更适合你。
 
-上周我们讲过部署你的web应用。https://course-v3.fast.ai/ 有一个“production”章节，里面有展示怎样简单地部署web应用的内容。举个例子，看看多简单，这是Navjot写的[怎样在Zeit部署的指南](https://course-v3.fast.ai/deployment_zeit.html)。
+上周我们讲过部署你的web应用。https://course.fast.ai/ 有一个“production”章节，里面有展示怎样简单地部署web应用的内容。举个例子，看看多简单，这是Navjot写的[怎样在Zeit部署的指南](https://course.fast.ai/deployment_zeit.html)。
 
 ![](/lesson3/3.png)
 

@@ -1,5 +1,5 @@
 # Lesson 1
-[Webpage](http://course-v3.fast.ai/) / [Video](https://youtu.be/BWWm4AzsdLk) /  [Lesson Forum](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936) / [General Forum](https://forums.fast.ai/t/faq-resources-and-official-course-updates/27934/1)
+[Webpage](http://course.fast.ai/) / [Video](https://youtu.be/BWWm4AzsdLk) /  [Lesson Forum](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936) / [General Forum](https://forums.fast.ai/t/faq-resources-and-official-course-updates/27934/1)
 
 
 
@@ -40,7 +40,7 @@ How to use notebooks and the materials well based on the last three years of exp
 ![](lesson1/1.png)
 
 Main places to be looking for things are:
-- [http://course-v3.fast.ai/](http://course-v3.fast.ai/)
+- [http://course.fast.ai/](http://course.fast.ai/)
 - [https://forums.fast.ai/](https://forums.fast.ai/latest)
 
 

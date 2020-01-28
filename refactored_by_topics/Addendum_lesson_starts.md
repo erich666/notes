@@ -20,7 +20,7 @@ How to use notebooks and the materials well based on the last three years of exp
 ![](../lesson1/1.png)
 
 Main places to be looking for things are:
-- [http://course-v3.fast.ai/](http://course-v3.fast.ai/)
+- [http://course.fast.ai/](http://course.fast.ai/)
 - [https://forums.fast.ai/](https://forums.fast.ai/latest)
 
 
@@ -107,7 +107,7 @@ After just one week, the most popular thread has 1.1k replies which is intimidat
 
 ####  Returning to work [[3:19]](https://youtu.be/Egp4Zajhzog?t=199)
 
-https://course-v3.fast.ai/ now has a "Returning to work" section which will show you (for each specific platform you use):
+https://course.fast.ai/ now has a "Returning to work" section which will show you (for each specific platform you use):
 
 - How to make sure you have the latest notebooks
 - How to make sure you have the latest fastai library 
@@ -222,7 +222,7 @@ A quick correction on citation. This chart originally cane from Andrew Ng's exce
 
 Also, if you are interested in machine learning foundations, you should check out our [machine learning course](https://course.fast.ai/ml) as well. It is about twice as long as this deep learning course and takes you much more gradually through some of the foundational stuff around validation sets, model interpretation, how PyTorch tensor works, etc. I think all these courses together, if you really dig deeply into the material, do all of them. I know a lot of people who have and end up saying "oh, I got more out of each one by doing a whole lot". Or you can backwards and forwards to see which one works for you.
 
-We started talking about deploying your web app last week. One thing that's going to make life a lot easier for you is that https://course-v3.fast.ai/ has a production section where right now we have one platform but more will be added showing you how to deploy your web app really easily. When I say easily, for example, here is [how to deploy on Zeit guide](https://course-v3.fast.ai/deployment_zeit.html) created by Navjot. 
+We started talking about deploying your web app last week. One thing that's going to make life a lot easier for you is that https://course.fast.ai/ has a production section where right now we have one platform but more will be added showing you how to deploy your web app really easily. When I say easily, for example, here is [how to deploy on Zeit guide](https://course.fast.ai/deployment_zeit.html) created by Navjot. 
 
 ![](../lesson3/3.png)
 

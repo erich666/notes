@@ -1,6 +1,6 @@
 # 第一课
 
-[主页](http://course-v3.fast.ai/) / [视频(YouTube)](https://youtu.be/BWWm4AzsdLk) /  [视频(bilibili)](https://www.bilibili.com/video/av68141999/?p=1) /  [论坛第一课板块](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936) / [论坛](https://forums.fast.ai/t/faq-resources-and-official-course-updates/27934/1)
+[主页](http://course.fast.ai/) / [视频(YouTube)](https://youtu.be/BWWm4AzsdLk) /  [视频(bilibili)](https://www.bilibili.com/video/av68141999/?p=1) /  [论坛第一课板块](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936) / [论坛](https://forums.fast.ai/t/faq-resources-and-official-course-updates/27934/1)
 
 
 
@@ -42,7 +42,7 @@ Jupyter Notebook 对于数据科学工作者来说是一个有趣的工具，你
 ![](/lesson1/1.png)
 
 在这里获取课程资源:
-- [http://course-v3.fast.ai/](http://course-v3.fast.ai/)
+- [http://course.fast.ai/](http://course.fast.ai/)
 - [https://forums.fast.ai/](https://forums.fast.ai/latest)
 
 

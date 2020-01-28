@@ -22,7 +22,7 @@
 
 ####  继续运行 [[3:19]](https://youtu.be/Egp4Zajhzog?t=199)
 
-https://course-v3.fast.ai/ 现在有一个“继续运行”的章节，它会告诉你（在每一个平台上）：
+https://course.fast.ai/ 现在有一个“继续运行”的章节，它会告诉你（在每一个平台上）：
 
 - 怎样保证你有最新的Notebook
 - 怎样保证你有最新的fastai库
@@ -496,7 +496,7 @@ async def classify_url(request):
 
 这周练习下这个。如果你之前没有创建过web程序，网上有很多不错的教程和初始代码。如果拿不准，不妨试下Starlette。有些免费的托管服务可以用，比如[PythonAnywhere](https://www.pythonanywhere.com/)。Simon用的是[Zeit Now](https://zeit.co/now)，你可以像docker一样打包然后上传，在服务器上启动。它不会有什么费用，你可以把你创建的分类器变成web应用了。很乐于看到你们能够做到这些，这很有趣。
 
-https://course-v3.fast.ai/deployment_zeit.html
+https://course.fast.ai/deployment_zeit.html
 
 ### 会出错的地方 [[46:06](https://youtu.be/Egp4Zajhzog?t=2766)]
 

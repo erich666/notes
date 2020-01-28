@@ -374,7 +374,7 @@ async def classify_url(request):
 
 So give it a go this week. Even if you've never created a web application before, there's a lot of nice little tutorials online and kind of starter code, if in doubt, why don't you try Starlette. There's a free hosting that you can use, there's one called [PythonAnywhere](https://www.pythonanywhere.com/), for example. The one Simon has used, [Zeit Now](https://zeit.co/now), it's something you can basically package it up as a docker thing and shoot it off and it'll serve it up for you. So it doesn't even need to cost you any money and all these classifiers that you're creating, you can turn them into web application. I'll be really interested to see what you're able to make of that. That'll be really fun.
 
-https://course-v3.fast.ai/deployment_zeit.html
+https://course.fast.ai/deployment_zeit.html
 
 ### Things that can go wrong [[46:06](https://youtu.be/Egp4Zajhzog?t=2766)]
 
